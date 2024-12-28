@@ -1,0 +1,54 @@
+  .header-content {
+    position: fixed;
+    width: 94%;
+    top: 0;
+    background-color: #ffffff;
+    display: flex;
+    padding: 5px 100px;
+  }
+  
+  .nav {
+    flex: 1; 
+    display: flexbox;
+    justify-content: flex-start;
+  }
+  
+  .nav-links {
+    padding-left: 5% ;
+    list-style: none;
+    display: flex;
+    gap: 25px;
+  }
+  
+  .nav-item a {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 300;
+  }
+  
+  .nav-item a:hover {
+    text-decoration: underline;
+    color: rgb(41, 189, 18);
+  }
+
+  .logo-container {
+    flex: 1; 
+    display: flex;
+    align-items: center; 
+  }
+  
+  .logo-image {
+    width: 30px; 
+    padding-left: 15%;
+  }
+  
+  .cart-container-head {
+    position: relative;
+    background: 13px;
+  }
+  
+  .cart {
+    cursor: pointer;
+    padding-right: 100px;
+    padding-top: 10px;
+  }

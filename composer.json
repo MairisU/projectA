@@ -1,0 +1,17 @@
+{
+    "name": "mairi/project-a",
+    "autoload": {
+        "psr-4": {
+            "Mairi\\ProjectA\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MairisU",
+            "email": "mairisurbans1@gmail.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^15.19"
+    }
+}

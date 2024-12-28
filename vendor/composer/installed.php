@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'mairi/project-a',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '6432a88a2c51a38b36ec87b187855f3cd9645e9a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'mairi/project-a' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '6432a88a2c51a38b36ec87b187855f3cd9645e9a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
